@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-22T14:22:31 IST" name="Suite" finished-at="2024-06-22T14:23:51 IST" duration-ms="80427">
+    <groups>
+    </groups>
+    <test started-at="2024-06-22T14:22:31 IST" name="Test" finished-at="2024-06-22T14:23:51 IST" duration-ms="80427">
+      <class name="com.OrangeHRM.TestCases.TC_04">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.OrangeHRM.TestCases.TC_04@7770f470]" started-at="2024-06-22T14:23:39 IST" name="setup" finished-at="2024-06-22T14:23:40 IST" duration-ms="948" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Handlingdatepicker()[pri:0, instance:com.OrangeHRM.TestCases.TC_04@7770f470]" started-at="2024-06-22T14:23:40 IST" name="Handlingdatepicker" finished-at="2024-06-22T14:23:51 IST" duration-ms="11735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Handlingdatepicker -->
+      </class> <!-- com.OrangeHRM.TestCases.TC_04 -->
+      <class name="com.OrangeHRM.TestCases.TC_03">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.OrangeHRM.TestCases.TC_03@d35dea7]" started-at="2024-06-22T14:23:07 IST" name="setup" finished-at="2024-06-22T14:23:08 IST" duration-ms="1071" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HandlingBootstrapdropdown()[pri:0, instance:com.OrangeHRM.TestCases.TC_03@d35dea7]" started-at="2024-06-22T14:23:08 IST" name="HandlingBootstrapdropdown" finished-at="2024-06-22T14:23:39 IST" duration-ms="30644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HandlingBootstrapdropdown -->
+      </class> <!-- com.OrangeHRM.TestCases.TC_03 -->
+      <class name="com.OrangeHRM.TestCases.TC_02">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.OrangeHRM.TestCases.TC_02@247bddad]" started-at="2024-06-22T14:22:43 IST" name="setup" finished-at="2024-06-22T14:22:44 IST" duration-ms="1046" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HandlingWebTable()[pri:0, instance:com.OrangeHRM.TestCases.TC_02@247bddad]" started-at="2024-06-22T14:22:44 IST" name="HandlingWebTable" finished-at="2024-06-22T14:23:07 IST" duration-ms="22476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HandlingWebTable -->
+      </class> <!-- com.OrangeHRM.TestCases.TC_02 -->
+      <class name="com.OrangeHRM.TestCases.TC_01">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.OrangeHRM.TestCases.TC_01@2362f559]" started-at="2024-06-22T14:22:31 IST" name="setup" finished-at="2024-06-22T14:22:34 IST" duration-ms="2698" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginTestVerification()[pri:0, instance:com.OrangeHRM.TestCases.TC_01@2362f559]" started-at="2024-06-22T14:22:34 IST" name="LoginTestVerification" finished-at="2024-06-22T14:22:43 IST" duration-ms="9358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestVerification -->
+      </class> <!-- com.OrangeHRM.TestCases.TC_01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

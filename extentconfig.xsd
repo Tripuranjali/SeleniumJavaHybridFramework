@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="extentreports">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="configuration">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="theme" type="xs:string" />
+							<xs:element name="encoding" type="xs:string" />
+							<xs:element name="protocol" type="xs:string" />
+							<xs:element name="documentTitle" type="xs:string" />
+							<xs:element name="reportName" type="xs:string" />
+							<xs:element name="testViewChartLocation" type="xs:string" />
+							<xs:element name="scripts" />
+							<xs:element name="styles" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
